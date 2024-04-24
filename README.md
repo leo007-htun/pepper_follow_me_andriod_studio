@@ -1,9 +1,9 @@
-# Acknowlodegement
-I am deeply appreciated to the original owner of this repo and Softbank robotics. Thanks to them, I could manage to develop more profund interactions with pepper.
+# Acknowledegement
+I am deeply appreciated to the original owner of this repo Alexandre Roux and Softbank robotics. Thanks to them, I could manage to develop more profund interactions with pepper.
 
 # What you need to know
 there are two types of pepper, one for research and academic use and one for B2B. 
-First, check your pepper version 1.6, 1.8 or 18.a, as in [](https://support.aldebaran.com/support/solutions/articles/80000963170-is-my-pepper-a-1-7-1-8a-or-1-8-hardware-version-)
+First, check your pepper version 1.6, 1.8 or 18.a, as in [link](https://support.aldebaran.com/support/solutions/articles/80000963170-is-my-pepper-a-1-7-1-8a-or-1-8-hardware-version-)
 as in article, pepper 1.6, 1.7 are not compatible with NAOqi 2.5 (python) only but Pepper 1.8A and Pepper 1.8 are compatible with both NAOqi 2.5 (Python) and NAOqi 2.9 (Android).
 So you need to know what verison of pepper and NAOqi you are using. 
 If your version supports NAOqi 2.9, it is likely to be able to use Andriod Studio, which can enable ADB connection. Most of the developers are trying to use Andriod Studio with NAOqi 2.5, including me, which I learnt it hard way.
