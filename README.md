@@ -12,15 +12,15 @@ Besides, Android Studio in Windows doesn't support Emulator for pepper but Ubunt
 
 Thanks to Lukas Brandt, in unitedrobotics discussion topic, we can work around with Emulator issue in Ubuntu22.[link](https://support.unitedrobotics.group/de/support/discussions/topics/80000657899)
 
-    `sudo apt install qemu-kvm`
+    sudo apt install qemu-kvm
 
-    `sudo adduser yourusername kvm`
+    sudo adduser yourusername kvm
 
-    `cd /home/$USER/.local/share/Softbank Robotics/RobotSDK/API 7/tools/lib`
+    cd /home/$USER/.local/share/Softbank Robotics/RobotSDK/API 7/tools/lib
 
-    `mv libz.so.1 libz.so.1.bak`
+    mv libz.so.1 libz.so.1.bak
 
-    `ln -s /usr/lib/x86_64-linux-gnu/libz.so libz.so.1`
+    ln -s /usr/lib/x86_64-linux-gnu/libz.so libz.so.1
 
 Note : Do not try to update your NAOqi version yourself with '.opn' extension, it will only update pepper's OS and not the tablet. 
 
