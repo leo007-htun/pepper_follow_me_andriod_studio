@@ -24,7 +24,7 @@ Thanks to Lukas Brandt, in unitedrobotics discussion topic, we can work around w
 
 Note : Do not try to update your NAOqi version yourself with '.opn' extension, it will only update pepper's OS and not the tablet. 
 
-you can also rest pepper's tablet as in this link which I dont recommand [link](https://support.aldebaran.com/support/solutions/articles/80000962214-pepper-how-to-factory-reset-the-tablet-only)
+you can also reset pepper's tablet as in this link which I dont recommand [link](https://support.aldebaran.com/support/solutions/articles/80000962214-pepper-how-to-factory-reset-the-tablet-only)
 
 
 
